@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage": "https://gitname.github.io/react-gh-pages",
+    "homepage": "https://omrajpal.github.io/greenplate-website-demo",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
